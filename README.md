@@ -48,3 +48,12 @@ GitHub: https://github.com/gulfamnazeer516-blip
 ## License
 
 MIT License
+
+
+## Project Preview
+
+![Gulfam Commerce Store](store-preview.png)
+
+### Live Demo
+
+[View Live Store](https://gulfamnazeer516-blip.github.io/gulfam-commerce-demo/)
